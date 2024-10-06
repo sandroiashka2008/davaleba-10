@@ -1,0 +1,278 @@
+.left{
+    width: 15%;
+    height:  55%;
+    
+    background:#4D21C9;
+    
+    display: flex;
+    position: absolute;
+    margin-left:  33%;
+    border: 3px solid black;
+    margin-top:10%;
+    border-radius: 30px;
+    box-shadow: 3px 3px 3px;
+    
+    }
+    
+    
+    
+    
+    .circle{
+        width: 150px;
+        height: 150px;
+        background: linear-gradient(180deg, #7755FF 0%, #6943ff77 0.01%, #25246e 100%) ;
+        
+        
+      
+        margin-left:  16%;
+     
+        margin-top: 38%;
+      border: 3px solid black;
+        border-radius: 50%;
+        justify-content: center;
+        align-items: center;
+       
+        
+    }
+       
+    h1{
+    position: absolute;
+    color: white;
+    font-size: 55px;
+    margin-top: 55%;
+    margin-left: 35%;
+    font-family: 'Brush Script MT', cursive;
+    font-style: italic;
+    font-weight: 600;
+    
+    }
+    h2{
+    
+      position: absolute;
+      color: white;
+      font-size: 20px;
+      margin-top: 15%;
+      margin-left: 28%;
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-style: italic;
+      font-weight: 600;
+    
+    
+    }
+    
+    h6{
+      position: absolute;
+      color: white;
+      font-size: 13px;
+      margin-top:83%;
+      margin-left: 38%;
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-style: italic;
+      font-weight: 600;
+    
+    
+    }
+    
+    h3{
+      position: absolute;
+      color: white;
+      font-size: 35px;
+      margin-top: 110%;
+      margin-left: 29%;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-style: italic;
+      font-weight: 600;
+    
+    
+    }
+    
+    p{
+      position: absolute;
+      color: white;
+      font-size: 11px;
+      margin-top: 135%;
+      margin-left: 15%;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-style: italic;
+      font-weight: 600;
+    
+    
+    }
+    
+    
+    .right{
+     width: 15%;
+     height: 55%; 
+    background-color: white;
+    display: flex;
+    position: absolute;
+    margin-left: 48%;
+    border-radius: 30px;
+    margin-top: 10%;
+    
+    box-shadow: 3px 3px 3px;
+    
+    }
+    
+    
+    #summary{
+    position: absolute;
+    margin-top: 13%;
+    margin-left: 15%;
+    font-size: 25px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+    
+    }
+    
+    i{
+    position: absolute;
+    font-size: 20px;
+    margin-top: 80px;
+    color: red;
+    margin-left: 25px;
+    }
+    
+    
+    #reaction{
+    
+      position: absolute;
+      margin-top: 33%;
+      margin-left: 49px;
+      font-size: 20px;
+      color: black;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      color: red;
+      
+    
+    
+    }
+      
+      h5{
+        position: absolute;
+        margin-top: 33%;
+        margin-left: 135px;
+        font-size: 20px;
+        color: black;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight: 500;
+        color: red;
+        }
+    
+        
+    #memory{
+    
+      position: absolute;
+      margin-top: 55%;
+      margin-left: 50px;
+      font-size: 22px;
+      color: black;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-weight: 500;
+      color: rgba(235, 235, 19, 0.858);
+    
+    }
+    
+    #brain{
+    color: yellow;
+    position: absolute;
+    margin-left: 26px;
+    margin-top: 57%;
+    }
+    
+    #procentage{
+    
+    
+    
+      position: absolute;
+        margin-top: 57%;
+        margin-left: 136px;
+        font-size: 20px;
+        color: black;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight: 500;
+        color: yellow;
+    }
+    
+       #verbal{
+        position: absolute;
+        margin-top: 80%;
+        margin-left: 55px;
+        font-size: 22px;
+        color: green;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight: 500;
+        
+    
+    
+       }
+    
+       #message{
+        display: flex;
+        margin-top: 81.7%;
+        margin-left: 29px;
+        font-size: 20px;
+        color: green;
+        
+        
+    
+    
+    
+       }
+    
+       #verbal2{
+    
+        display: flex;
+        margin-top: 80%;
+        margin-left: 139px;
+        font-size: 20px;
+        color: green;
+    
+       }
+    
+       #eyes{
+    
+        display: flex;
+        margin-top: 105%;
+        margin-left: 29px;
+        font-size: 20px;
+        color: blue;
+    
+    
+       }
+    
+       #visual{
+        display: flex;
+        margin-top: 103%;
+        margin-left: 60px;
+        font-size: 20px;
+        color: blue;
+    
+    
+       }
+    
+       #visual2{
+        display: flex;
+        margin-top: 103%;
+        margin-left: 139px;
+        font-size: 20px;
+        color: blue;
+    
+    
+    
+    
+       }
+    
+       button{
+       position: absolute;
+        margin-top: 145%;
+        margin-left: 50px;
+        font-size: 20px;
+        color: white;
+        background-color: blue;
+    border-radius: 10%;
+    width: 140px;
+    height: 30px;
+       }
+    
